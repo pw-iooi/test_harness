@@ -1,5 +1,5 @@
 /**
- * @author Patricia Wong (20121668)
+ * @author Patricia Wong 
  * Program under test (PUT)
  * Simple adder program that sum all the input arguments
  * Failure region created where sum is between 0.5 and 0.6
