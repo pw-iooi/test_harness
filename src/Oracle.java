@@ -1,5 +1,5 @@
 /**
- * @author Patricia Wong (20121668)
+ * @author Patricia Wong 
  * Oracle
  * Simple adder program that sum all the input arguments
  */
