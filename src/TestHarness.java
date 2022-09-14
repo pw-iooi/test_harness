@@ -1,6 +1,6 @@
 /**
- * @author Patricia Wong (20121668)
- * COMP3053 SQA Coursework 03; TDD to create ART Harness (2021)
+ * @author Patricia Wong
+ * TDD to create ART Harness (2021)
  * Note: Place .jar files in the same folder as ARTHarness ./src/PUT.jar or ./src/Oracle.jar
  */
 
